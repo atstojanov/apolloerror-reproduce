@@ -14,3 +14,6 @@ cd ./client
 yarn
 yarn start
 ```
+
+The page shows the errors from the returned error object.
+The errors from the `onError` link are visible in the console.
